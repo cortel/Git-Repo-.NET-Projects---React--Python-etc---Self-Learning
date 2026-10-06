@@ -16,3 +16,7 @@ Build a focused, runnable example of api and server state using a concrete scena
 - [ ] Record lessons and one follow-up improvement.
 
 Keep code, tests, and notes in this folder. Start with the [project brief](../../13-project-templates/project-brief.md).
+
+## Focused mini-projects
+
+- [query cache and invalidation](./query-cache-and-invalidation/)

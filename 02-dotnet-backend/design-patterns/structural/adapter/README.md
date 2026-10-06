@@ -12,3 +12,7 @@ Implement a small backend example demonstrating adapter. Compare it with a simpl
 - [ ] Identify a realistic backend use case.
 
 A console application is sufficient unless HTTP or persistence is needed.
+
+## Concrete mini-project
+
+Adapt a legacy shipping API to a narrow delivery quotation contract.

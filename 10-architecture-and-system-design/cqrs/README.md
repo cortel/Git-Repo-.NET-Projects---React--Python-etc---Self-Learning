@@ -16,3 +16,7 @@ Build a focused, runnable example of cqrs using a concrete scenario. Demonstrate
 - [ ] Record lessons and one follow-up improvement.
 
 Keep code, tests, and notes in this folder. Start with the [project brief](../../13-project-templates/project-brief.md).
+
+## Focused mini-projects
+
+- [separate read and write models](./separate-read-and-write-models/)

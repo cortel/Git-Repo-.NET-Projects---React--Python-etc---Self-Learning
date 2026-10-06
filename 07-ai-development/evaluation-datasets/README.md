@@ -18,3 +18,7 @@ Create a small version-controlled synthetic dataset, initially around 20 cases. 
 - [ ] Explain the dataset's coverage limits; optional model judges need calibration against human review.
 
 [Microsoft's evaluation libraries](https://learn.microsoft.com/en-us/dotnet/ai/evaluation/libraries) can support reporting and metrics. Learning success does not require installing every evaluator or using exact text matching for nondeterministic responses.
+
+## Focused mini-projects
+
+- [retrieval and answer evaluation](./retrieval-and-answer-evaluation/)

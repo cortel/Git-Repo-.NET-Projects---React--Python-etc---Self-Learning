@@ -16,3 +16,7 @@ Bound agent resource use and define a service-level objective for completed jobs
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [per tenant quotas](./per-tenant-quotas/)

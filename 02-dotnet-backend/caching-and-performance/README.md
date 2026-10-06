@@ -16,3 +16,8 @@ Build a focused, runnable example of caching and performance using a concrete sc
 - [ ] Record lessons and one follow-up improvement.
 
 Keep code, tests, and notes in this folder. Start with the [project brief](../../13-project-templates/project-brief.md).
+
+## Focused mini-projects
+
+- [cache aside](./cache-aside/)
+- [cache stampede](./cache-stampede/)

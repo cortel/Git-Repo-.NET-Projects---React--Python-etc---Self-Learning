@@ -16,3 +16,7 @@ Require a human decision before a simulated external side effect.
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [approval state machine](./approval-state-machine/)

@@ -12,3 +12,7 @@ Implement a small backend example demonstrating interpreter. Compare it with a s
 - [ ] Identify a realistic backend use case.
 
 A console application is sufficient unless HTTP or persistence is needed.
+
+## Concrete mini-project
+
+Interpret a small discount-rule grammar; compare complexity with simple predicates.

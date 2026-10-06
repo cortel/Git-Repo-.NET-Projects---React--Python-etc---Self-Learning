@@ -12,3 +12,7 @@ Implement a small backend example demonstrating command. Compare it with a simpl
 - [ ] Identify a realistic backend use case.
 
 A console application is sufficient unless HTTP or persistence is needed.
+
+## Concrete mini-project
+
+Represent cart changes as commands and implement deterministic undo for reversible operations.

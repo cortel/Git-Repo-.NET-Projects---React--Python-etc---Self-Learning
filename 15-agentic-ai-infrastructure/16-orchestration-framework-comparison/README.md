@@ -11,3 +11,7 @@ Compare the existing .NET worker/loop with one current .NET framework, starting 
 - [ ] Keep or reject the framework with a concrete reason and an ADR.
 
 Do not rebuild the project in Semantic Kernel, AutoGen, LangGraph and Temporal to complete this exercise. Python and other orchestrators remain separate optional depth.
+
+## Focused mini-projects
+
+- [single agent versus multi agent](./single-agent-versus-multi-agent/)

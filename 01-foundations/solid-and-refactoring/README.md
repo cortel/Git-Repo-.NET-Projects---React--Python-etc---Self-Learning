@@ -16,3 +16,11 @@ Build a focused, runnable example of solid and refactoring using a concrete scen
 - [ ] Record lessons and one follow-up improvement.
 
 Keep code, tests, and notes in this folder. Start with the [project brief](../../13-project-templates/project-brief.md).
+
+## Focused mini-projects
+
+- [single responsibility](./single-responsibility/)
+- [open closed](./open-closed/)
+- [liskov substitution](./liskov-substitution/)
+- [interface segregation](./interface-segregation/)
+- [dependency inversion](./dependency-inversion/)

@@ -12,3 +12,7 @@ Implement a small backend example demonstrating mediator. Compare it with a simp
 - [ ] Identify a realistic backend use case.
 
 A console application is sufficient unless HTTP or persistence is needed.
+
+## Concrete mini-project
+
+Coordinate stock and payment components through a mediator and compare with direct collaboration.

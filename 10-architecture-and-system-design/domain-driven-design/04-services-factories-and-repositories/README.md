@@ -16,3 +16,8 @@ Persist and construct aggregates without leaking storage into domain rules.
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [domain service](./domain-service/)
+- [repository](./repository/)

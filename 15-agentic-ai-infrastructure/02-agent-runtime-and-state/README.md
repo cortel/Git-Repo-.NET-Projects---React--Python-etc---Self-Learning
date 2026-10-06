@@ -16,3 +16,7 @@ Design a .NET API and worker that execute a bounded agent loop with an explicit 
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [bounded agent loop](./bounded-agent-loop/)

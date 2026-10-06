@@ -12,3 +12,7 @@ Implement a small backend example demonstrating flyweight. Compare it with a sim
 - [ ] Identify a realistic backend use case.
 
 A console application is sufficient unless HTTP or persistence is needed.
+
+## Concrete mini-project
+
+Share immutable product display metadata across many catalog entries and measure memory use.

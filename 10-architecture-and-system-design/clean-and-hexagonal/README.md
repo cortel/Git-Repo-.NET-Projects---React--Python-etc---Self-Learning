@@ -26,3 +26,8 @@ Keep code, tests, and notes in this folder. Start with the [project brief](../..
 - [ ] Compare with a simpler vertical slice and justify additional layers by concrete requirements.
 
 Continue with [component cohesion/coupling](../component-cohesion-and-coupling/) and [architecture checks](../architecture-fitness-functions/).
+
+## Focused mini-projects
+
+- [clean architecture](./clean-architecture/)
+- [ports and adapters](./ports-and-adapters/)

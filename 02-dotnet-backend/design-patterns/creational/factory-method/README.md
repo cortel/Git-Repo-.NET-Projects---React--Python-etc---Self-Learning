@@ -12,3 +12,7 @@ Implement a small backend example demonstrating factory method. Compare it with 
 - [ ] Identify a realistic backend use case.
 
 A console application is sufficient unless HTTP or persistence is needed.
+
+## Concrete mini-project
+
+Create notification senders through an overridable creation point; compare with a simple factory.

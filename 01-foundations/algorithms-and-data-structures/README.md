@@ -16,3 +16,10 @@ Build a focused, runnable example of algorithms and data structures using a conc
 - [ ] Record lessons and one follow-up improvement.
 
 Keep code, tests, and notes in this folder. Start with the [project brief](../../13-project-templates/project-brief.md).
+
+## Focused mini-projects
+
+- [binary search](./binary-search/)
+- [hash table](./hash-table/)
+- [stack and queue](./stack-and-queue/)
+- [heap and priority queue](./heap-and-priority-queue/)

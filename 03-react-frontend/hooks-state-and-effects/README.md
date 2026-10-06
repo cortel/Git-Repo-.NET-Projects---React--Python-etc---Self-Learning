@@ -16,3 +16,7 @@ Build a focused, runnable example of hooks state and effects using a concrete sc
 - [ ] Record lessons and one follow-up improvement.
 
 Keep code, tests, and notes in this folder. Start with the [project brief](../../13-project-templates/project-brief.md).
+
+## Focused mini-projects
+
+- [effect cleanup and cancellation](./effect-cleanup-and-cancellation/)

@@ -12,3 +12,7 @@ Implement a small backend example demonstrating abstract factory. Compare it wit
 - [ ] Identify a realistic backend use case.
 
 A console application is sufficient unless HTTP or persistence is needed.
+
+## Concrete mini-project
+
+Create compatible payment and receipt providers for sandbox and production configurations; prevent mixing families.

@@ -12,3 +12,7 @@ Implement a small backend example demonstrating memento. Compare it with a simpl
 - [ ] Identify a realistic backend use case.
 
 A console application is sufficient unless HTTP or persistence is needed.
+
+## Concrete mini-project
+
+Save and restore editor drafts without exposing mutable internal state.

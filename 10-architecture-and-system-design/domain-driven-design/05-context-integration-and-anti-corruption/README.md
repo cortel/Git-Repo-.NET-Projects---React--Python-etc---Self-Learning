@@ -16,3 +16,7 @@ Integrate a legacy customer model with a new ordering context.
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [anti corruption layer](./anti-corruption-layer/)

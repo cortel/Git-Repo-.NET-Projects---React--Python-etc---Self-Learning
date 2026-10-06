@@ -16,3 +16,7 @@ Deploy API, workers, queue and checkpoint storage with reproducible configuratio
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [graceful worker drain](./graceful-worker-drain/)

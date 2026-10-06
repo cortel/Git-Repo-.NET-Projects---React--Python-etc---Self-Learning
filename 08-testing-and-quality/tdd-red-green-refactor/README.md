@@ -16,3 +16,7 @@ Build a pricing rule using short test-first cycles.
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [pricing kata](./pricing-kata/)

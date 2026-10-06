@@ -16,3 +16,9 @@ Build a focused, runnable example of outbox inbox and idempotency using a concre
 - [ ] Record lessons and one follow-up improvement.
 
 Keep code, tests, and notes in this folder. Start with the [project brief](../../13-project-templates/project-brief.md).
+
+## Focused mini-projects
+
+- [transactional outbox](./transactional-outbox/)
+- [inbox deduplication](./inbox-deduplication/)
+- [idempotency key](./idempotency-key/)

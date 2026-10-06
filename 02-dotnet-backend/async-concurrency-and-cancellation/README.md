@@ -13,3 +13,9 @@ Use a synthetic order lookup and document-ingestion worker to learn lifetime and
 - [ ] Profile before trying ValueTask or extra parallelism. Observables are optional for a stream-composition requirement.
 
 Use official [async guidance](https://learn.microsoft.com/en-us/dotnet/csharp/asynchronous-programming/) and [Channels documentation](https://learn.microsoft.com/en-us/dotnet/core/extensions/channels). The [curated concurrency resource](../../14-learning-material/curated-links.md) supplies supplementary examples to reproduce, not another mandatory course.
+
+## Focused mini-projects
+
+- [cancellation token](./cancellation-token/)
+- [bounded channels](./bounded-channels/)
+- [race condition and locking](./race-condition-and-locking/)

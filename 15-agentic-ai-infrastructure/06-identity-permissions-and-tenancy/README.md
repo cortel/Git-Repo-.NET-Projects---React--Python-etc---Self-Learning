@@ -16,3 +16,7 @@ Give each run only the identity, tenant scope and capabilities it needs.
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [per tool authorization](./per-tool-authorization/)

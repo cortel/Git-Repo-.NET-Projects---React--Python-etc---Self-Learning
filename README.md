@@ -34,3 +34,5 @@ Use [curated resources](./14-learning-material/curated-links.md) for verified pr
 Each implemented project owns its setup, tests and dependencies. Add src/, tests/, docs/ and infra/ when needed. Book, marketing and publishing work are outside this learning scaffold.
 
 AI contributors follow the root [agent working rules](./AGENTS.md), including validation and committing/pushing completed work for traceability.
+
+Browse the [mini-project directory](./00-roadmap/mini-project-directory.md) for named exercises, including individual anti-patterns, SOLID principles, resilience patterns and agent infrastructure.

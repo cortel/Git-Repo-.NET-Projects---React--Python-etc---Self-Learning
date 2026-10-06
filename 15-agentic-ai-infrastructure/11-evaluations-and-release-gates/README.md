@@ -16,3 +16,7 @@ Create regression evidence for an agent before releasing it.
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [regression release gate](./regression-release-gate/)

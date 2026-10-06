@@ -16,3 +16,7 @@ Connect frontend requests, workflow steps, model calls and tool effects in one t
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [run trace and token accounting](./run-trace-and-token-accounting/)

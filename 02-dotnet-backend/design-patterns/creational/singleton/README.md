@@ -12,3 +12,7 @@ Implement a small backend example demonstrating singleton. Compare it with a sim
 - [ ] Identify a realistic backend use case.
 
 A console application is sufficient unless HTTP or persistence is needed. Address thread safety, DI lifetimes, global state, and testing limitations.
+
+## Concrete mini-project
+
+Compare a process-wide immutable catalog with dependency-injection-managed lifetime; demonstrate concurrency and testing implications.

@@ -16,3 +16,9 @@ Compare searching structures and traverse a synthetic dependency graph.
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [breadth first search](./breadth-first-search/)
+- [depth first search](./depth-first-search/)
+- [dijkstra](./dijkstra/)

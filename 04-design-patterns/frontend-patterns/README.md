@@ -16,3 +16,10 @@ Build a focused, runnable example of frontend patterns using a concrete scenario
 - [ ] Record lessons and one follow-up improvement.
 
 Keep code, tests, and notes in this folder. Start with the [project brief](../../13-project-templates/project-brief.md).
+
+## Focused mini-projects
+
+- [compound components](./compound-components/)
+- [custom hooks](./custom-hooks/)
+- [controlled components](./controlled-components/)
+- [reducer state machine](./reducer-state-machine/)

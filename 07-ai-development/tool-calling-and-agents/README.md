@@ -18,3 +18,7 @@ Give the existing assistant typed tools for order status and stock lookup. The m
 Function calling and tool calling describe the same basic integration concept here; they are not two separate courses. Long-term memory, autonomous plans, agentic RAG and multi-agent systems are deferred.
 
 Use Microsoft.Extensions.AI for the first typed-function exercise. Consider [Microsoft Agent Framework](https://learn.microsoft.com/en-us/agent-framework/overview/) when orchestration warrants it. MCP is an optional second-client integration in [infrastructure](../../15-agentic-ai-infrastructure/05-tool-gateway-and-mcp/), not a prerequisite for tools.
+
+## Focused mini-projects
+
+- [typed tool calling](./typed-tool-calling/)

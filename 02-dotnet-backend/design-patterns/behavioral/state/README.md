@@ -12,3 +12,7 @@ Implement a small backend example demonstrating state. Compare it with a simple 
 - [ ] Identify a realistic backend use case.
 
 A console application is sufficient unless HTTP or persistence is needed.
+
+## Concrete mini-project
+
+Model draft, paid, shipped and cancelled order behavior with explicit valid and invalid transitions.

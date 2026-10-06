@@ -16,3 +16,8 @@ Safely change a legacy module with poorly understood behavior.
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [legacy characterization](./legacy-characterization/)
+- [fake versus mock](./fake-versus-mock/)

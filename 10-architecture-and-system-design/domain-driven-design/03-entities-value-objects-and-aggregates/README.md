@@ -16,3 +16,9 @@ Implement an order aggregate with protected invariants.
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [entity](./entity/)
+- [value object](./value-object/)
+- [aggregate](./aggregate/)

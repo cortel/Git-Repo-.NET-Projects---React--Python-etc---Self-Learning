@@ -16,3 +16,7 @@ Compare a deterministic workflow, a single tool-using agent, and an optional mul
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [deterministic workflow](./deterministic-workflow/)

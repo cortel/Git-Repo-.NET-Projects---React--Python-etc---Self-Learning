@@ -12,3 +12,7 @@ Implement a small backend example demonstrating prototype. Compare it with a sim
 - [ ] Identify a realistic backend use case.
 
 A console application is sufficient unless HTTP or persistence is needed.
+
+## Concrete mini-project
+
+Clone a report configuration; demonstrate the difference between shared nested references and independent copies.

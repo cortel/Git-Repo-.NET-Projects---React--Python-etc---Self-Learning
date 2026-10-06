@@ -24,3 +24,10 @@ Source documents → parsed text → chunks with source/version/access metadata 
 Use PostgreSQL plus pgvector as the first persistent vector option. Hybrid search and reranking are later experiments if measured retrieval quality needs improvement. Azure AI Search is an alternative storage/search exercise, not an additional mandatory layer; Redis is not required.
 
 References: [.NET RAG concepts](https://learn.microsoft.com/en-us/dotnet/ai/conceptual/rag), [.NET vector-search walkthrough](https://learn.microsoft.com/en-us/dotnet/ai/quickstarts/build-vector-search-app). Keep application code in the existing project; this folder can hold focused experiments and evaluation evidence.
+
+## Focused mini-projects
+
+- [chunking experiment](./chunking-experiment/)
+- [hybrid retrieval](./hybrid-retrieval/)
+- [citation and abstention](./citation-and-abstention/)
+- [document update and deletion](./document-update-and-deletion/)

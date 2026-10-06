@@ -1,0 +1,155 @@
+# Mini-project directory
+
+Status: project briefs; application code is not implemented. Choose a mini-project when your current learning stage needs it. These are isolated practice exercises, not a second mandatory roadmap. The 23 classic patterns already have dedicated folders and are listed below.
+
+- [god object — 04-design-patterns/anti-patterns](../04-design-patterns/anti-patterns/god-object/): Refactor an order class that mixes pricing, persistence and notifications into explicit responsibilities.
+- [spaghetti code — 04-design-patterns/anti-patterns](../04-design-patterns/anti-patterns/spaghetti-code/): Replace tangled checkout branches with readable steps while preserving behavior.
+- [copy paste programming — 04-design-patterns/anti-patterns](../04-design-patterns/anti-patterns/copy-paste-programming/): Remove duplicated discount rules without creating a universal abstraction.
+- [primitive obsession — 04-design-patterns/anti-patterns](../04-design-patterns/anti-patterns/primitive-obsession/): Replace ambiguous money and email strings with validated value objects.
+- [anemic domain model — 04-design-patterns/anti-patterns](../04-design-patterns/anti-patterns/anemic-domain-model/): Compare an order model with scattered business rules against an aggregate that enforces invariants.
+- [service locator — 04-design-patterns/anti-patterns](../04-design-patterns/anti-patterns/service-locator/): Replace hidden dependency lookups with constructor injection and expose missing dependencies early.
+- [global mutable state — 04-design-patterns/anti-patterns](../04-design-patterns/anti-patterns/global-mutable-state/): Reproduce cross-request state leakage and replace shared mutable settings with scoped state.
+- [temporal coupling — 04-design-patterns/anti-patterns](../04-design-patterns/anti-patterns/temporal-coupling/): Make a client that requires Initialize before Send safe by construction.
+- [sync over async — 04-design-patterns/anti-patterns](../04-design-patterns/anti-patterns/sync-over-async/): Reproduce blocked request threads and replace Result or Wait with asynchronous composition.
+- [fire and forget — 04-design-patterns/anti-patterns](../04-design-patterns/anti-patterns/fire-and-forget/): Reproduce a lost background operation and replace it with supervised queued execution.
+- [exception swallowing — 04-design-patterns/anti-patterns](../04-design-patterns/anti-patterns/exception-swallowing/): Expose a silently failed import using explicit failure results and observable error handling.
+- [leaky abstraction — 04-design-patterns/anti-patterns](../04-design-patterns/anti-patterns/leaky-abstraction/): Remove persistence implementation details from a domain-facing contract.
+- [speculative generality — 04-design-patterns/anti-patterns](../04-design-patterns/anti-patterns/speculative-generality/): Simplify an unused plugin hierarchy while preserving the actual requirement.
+- [distributed monolith — 04-design-patterns/anti-patterns](../04-design-patterns/anti-patterns/distributed-monolith/): Expose coordinated release coupling between services and compare a modular monolith.
+- [chatty io and n plus one — 04-design-patterns/anti-patterns](../04-design-patterns/anti-patterns/chatty-io-and-n-plus-one/): Measure repeated database calls and replace them with a bounded query or batch.
+- [unbounded retries — 04-design-patterns/anti-patterns](../04-design-patterns/anti-patterns/unbounded-retries/): Simulate retry amplification and introduce attempt limits, deadlines and jitter.
+- [compound components — 04-design-patterns/frontend-patterns](../04-design-patterns/frontend-patterns/compound-components/): Build an accessible tabs component whose children share controlled state.
+- [custom hooks — 04-design-patterns/frontend-patterns](../04-design-patterns/frontend-patterns/custom-hooks/): Extract reusable request cancellation behavior without hiding business rules.
+- [controlled components — 04-design-patterns/frontend-patterns](../04-design-patterns/frontend-patterns/controlled-components/): Build a form whose inputs and validation have one explicit source of truth.
+- [reducer state machine — 04-design-patterns/frontend-patterns](../04-design-patterns/frontend-patterns/reducer-state-machine/): Represent a checkout flow with explicit allowed transitions and invalid-event handling.
+- [strategy versus switch — 04-design-patterns/comparison-exercises](../04-design-patterns/comparison-exercises/strategy-versus-switch/): Implement two pricing variants and compare clarity as requirements change.
+- [decorator versus middleware — 04-design-patterns/comparison-exercises](../04-design-patterns/comparison-exercises/decorator-versus-middleware/): Compare per-service caching with an HTTP request pipeline concern.
+- [composition versus inheritance — 04-design-patterns/comparison-exercises](../04-design-patterns/comparison-exercises/composition-versus-inheritance/): Add delivery variants using both approaches and compare change impact.
+- [single responsibility — 01-foundations/solid-and-refactoring](../01-foundations/solid-and-refactoring/single-responsibility/): Separate invoice calculations from rendering and delivery based on reasons to change.
+- [open closed — 01-foundations/solid-and-refactoring](../01-foundations/solid-and-refactoring/open-closed/): Add a shipping option through composition and compare a simple switch.
+- [liskov substitution — 01-foundations/solid-and-refactoring](../01-foundations/solid-and-refactoring/liskov-substitution/): Expose a subtype that breaks its caller contract and redesign the hierarchy.
+- [interface segregation — 01-foundations/solid-and-refactoring](../01-foundations/solid-and-refactoring/interface-segregation/): Split a document device contract so read-only clients need no unsupported methods.
+- [dependency inversion — 01-foundations/solid-and-refactoring](../01-foundations/solid-and-refactoring/dependency-inversion/): Isolate an order use case from an email provider through a narrow boundary.
+- [binary search — 01-foundations/algorithms-and-data-structures](../01-foundations/algorithms-and-data-structures/binary-search/): Search sorted products and verify empty, missing and duplicate inputs.
+- [hash table — 01-foundations/algorithms-and-data-structures](../01-foundations/algorithms-and-data-structures/hash-table/): Implement a small key lookup with collision handling and compare built-in collections.
+- [stack and queue — 01-foundations/algorithms-and-data-structures](../01-foundations/algorithms-and-data-structures/stack-and-queue/): Implement undo history and a work queue with explicit capacity behavior.
+- [heap and priority queue — 01-foundations/algorithms-and-data-structures](../01-foundations/algorithms-and-data-structures/heap-and-priority-queue/): Schedule tasks by priority and verify ordering and equal-priority behavior.
+- [breadth first search — 01-foundations/searching-and-graphs-lab](../01-foundations/searching-and-graphs-lab/breadth-first-search/): Find the shortest path in an unweighted dependency graph.
+- [depth first search — 01-foundations/searching-and-graphs-lab](../01-foundations/searching-and-graphs-lab/depth-first-search/): Traverse a dependency graph and detect cycles.
+- [dijkstra — 01-foundations/searching-and-graphs-lab](../01-foundations/searching-and-graphs-lab/dijkstra/): Find a minimum-cost route with nonnegative edge weights.
+- [insertion sort — 01-foundations/sorting-and-stability-lab](../01-foundations/sorting-and-stability-lab/insertion-sort/): Sort small nearly ordered inputs and measure comparisons.
+- [merge sort — 01-foundations/sorting-and-stability-lab](../01-foundations/sorting-and-stability-lab/merge-sort/): Implement stable sorting and measure auxiliary allocation.
+- [quick sort — 01-foundations/sorting-and-stability-lab](../01-foundations/sorting-and-stability-lab/quick-sort/): Compare pivot choices using duplicate-heavy and adversarial inputs.
+- [heap sort — 01-foundations/sorting-and-stability-lab](../01-foundations/sorting-and-stability-lab/heap-sort/): Implement in-place heap sorting and contrast stability with merge sort.
+- [cancellation token — 02-dotnet-backend/async-concurrency-and-cancellation](../02-dotnet-backend/async-concurrency-and-cancellation/cancellation-token/): Cancel a slow request and prove dependent work stops.
+- [bounded channels — 02-dotnet-backend/async-concurrency-and-cancellation](../02-dotnet-backend/async-concurrency-and-cancellation/bounded-channels/): Build a producer-consumer worker with backpressure and graceful shutdown.
+- [race condition and locking — 02-dotnet-backend/async-concurrency-and-cancellation](../02-dotnet-backend/async-concurrency-and-cancellation/race-condition-and-locking/): Reproduce oversold inventory and compare synchronization strategies.
+- [service lifetimes — 02-dotnet-backend/dependency-injection](../02-dotnet-backend/dependency-injection/service-lifetimes/): Demonstrate singleton, scoped and transient behavior and a captive dependency failure.
+- [optimistic concurrency — 02-dotnet-backend/ef-core](../02-dotnet-backend/ef-core/optimistic-concurrency/): Reject conflicting order updates using a concurrency token.
+- [query projection and tracking — 02-dotnet-backend/ef-core](../02-dotnet-backend/ef-core/query-projection-and-tracking/): Compare read-model projections with tracked entity loading.
+- [cache aside — 02-dotnet-backend/caching-and-performance](../02-dotnet-backend/caching-and-performance/cache-aside/): Cache product reads and demonstrate expiration and invalidation.
+- [cache stampede — 02-dotnet-backend/caching-and-performance](../02-dotnet-backend/caching-and-performance/cache-stampede/): Simulate simultaneous cache misses and bound database load.
+- [problem details — 02-dotnet-backend/validation-and-api-contracts](../02-dotnet-backend/validation-and-api-contracts/problem-details/): Return consistent validation and domain failure responses.
+- [pagination and filtering — 02-dotnet-backend/aspnet-core-web-api](../02-dotnet-backend/aspnet-core-web-api/pagination-and-filtering/): Build bounded product list queries with stable ordering.
+- [effect cleanup and cancellation — 03-react-frontend/hooks-state-and-effects](../03-react-frontend/hooks-state-and-effects/effect-cleanup-and-cancellation/): Prevent stale search responses and dispose subscriptions when views change.
+- [query cache and invalidation — 03-react-frontend/api-and-server-state](../03-react-frontend/api-and-server-state/query-cache-and-invalidation/): Refresh inventory after mutations without duplicating server state.
+- [accessible checkout form — 03-react-frontend/forms-and-validation](../03-react-frontend/forms-and-validation/accessible-checkout-form/): Build keyboard-friendly validation with field errors and server rejection.
+- [keyboard and focus — 03-react-frontend/accessibility-and-internationalization](../03-react-frontend/accessibility-and-internationalization/keyboard-and-focus/): Build a dialog with focus management and keyboard dismissal.
+- [locale and formatting — 03-react-frontend/accessibility-and-internationalization](../03-react-frontend/accessibility-and-internationalization/locale-and-formatting/): Display dates, currencies and translated validation for two locales.
+- [render profiling — 03-react-frontend/performance](../03-react-frontend/performance/render-profiling/): Measure an expensive product table and justify a targeted optimization.
+- [lost update — 05-databases-and-data/transactions-and-isolation](../05-databases-and-data/transactions-and-isolation/lost-update/): Reproduce competing inventory changes and prevent lost updates.
+- [deadlock — 05-databases-and-data/transactions-and-isolation](../05-databases-and-data/transactions-and-isolation/deadlock/): Create a safe local deadlock reproduction and fix lock ordering.
+- [composite index — 05-databases-and-data/indexes-and-query-plans](../05-databases-and-data/indexes-and-query-plans/composite-index/): Measure a filtered order query before and after an index change.
+- [expand contract — 05-databases-and-data/migrations](../05-databases-and-data/migrations/expand-contract/): Evolve a column while old and new application versions coexist.
+- [restore drill — 05-databases-and-data/backup-and-restore](../05-databases-and-data/backup-and-restore/restore-drill/): Restore a local database backup and verify a known data checksum.
+- [multi stage image — 06-devops-and-cloud/docker-and-compose](../06-devops-and-cloud/docker-and-compose/multi-stage-image/): Build a small application image and run it as a non-root user.
+- [pull request validation — 06-devops-and-cloud/github-actions-ci-cd](../06-devops-and-cloud/github-actions-ci-cd/pull-request-validation/): Create a workflow that builds and tests changes with minimal permissions.
+- [health check and rollback — 06-devops-and-cloud/deployment-and-rollback](../06-devops-and-cloud/deployment-and-rollback/health-check-and-rollback/): Reject an unhealthy release and restore the previous local version.
+- [plan review and drift — 06-devops-and-cloud/infrastructure-as-code](../06-devops-and-cloud/infrastructure-as-code/plan-review-and-drift/): Describe a small environment and inspect proposed changes without creating paid resources.
+- [distributed trace — 06-devops-and-cloud/opentelemetry-and-observability](../06-devops-and-cloud/opentelemetry-and-observability/distributed-trace/): Follow an HTTP request through an API, worker and database boundary.
+- [slo and error budget — 06-devops-and-cloud/sre-and-incident-response](../06-devops-and-cloud/sre-and-incident-response/slo-and-error-budget/): Define an availability objective and use simulated failures to calculate budget consumption.
+- [schema validated output — 07-ai-development/prompts-and-structured-output](../07-ai-development/prompts-and-structured-output/schema-validated-output/): Validate extracted order fields and handle malformed or incomplete model responses.
+- [chunking experiment — 07-ai-development/rag](../07-ai-development/rag/chunking-experiment/): Compare two chunking strategies against a small fixed question set.
+- [hybrid retrieval — 07-ai-development/rag](../07-ai-development/rag/hybrid-retrieval/): Compare keyword, vector and combined retrieval using relevance evidence.
+- [citation and abstention — 07-ai-development/rag](../07-ai-development/rag/citation-and-abstention/): Answer with document evidence or abstain when support is missing.
+- [document update and deletion — 07-ai-development/rag](../07-ai-development/rag/document-update-and-deletion/): Remove stale indexed content and prove deleted documents stop appearing.
+- [typed tool calling — 07-ai-development/tool-calling-and-agents](../07-ai-development/tool-calling-and-agents/typed-tool-calling/): Validate tool arguments before a read-only inventory lookup.
+- [retrieval and answer evaluation — 07-ai-development/evaluation-datasets](../07-ai-development/evaluation-datasets/retrieval-and-answer-evaluation/): Version representative questions and compare retrieval and answer quality separately.
+- [pricing kata — 08-testing-and-quality/tdd-red-green-refactor](../08-testing-and-quality/tdd-red-green-refactor/pricing-kata/): Build a pricing rule through observable red, green and refactor steps.
+- [legacy characterization — 08-testing-and-quality/characterization-tests-and-test-doubles](../08-testing-and-quality/characterization-tests-and-test-doubles/legacy-characterization/): Capture current behavior before changing a tangled calculation.
+- [fake versus mock — 08-testing-and-quality/characterization-tests-and-test-doubles](../08-testing-and-quality/characterization-tests-and-test-doubles/fake-versus-mock/): Compare a stateful fake with interaction verification at an external boundary.
+- [property based testing — 08-testing-and-quality/property-based-and-mutation-tests](../08-testing-and-quality/property-based-and-mutation-tests/property-based-testing/): Generate cart inputs and verify total and quantity invariants.
+- [mutation testing — 08-testing-and-quality/property-based-and-mutation-tests](../08-testing-and-quality/property-based-and-mutation-tests/mutation-testing/): Introduce behavior mutations and identify meaningful gaps in pricing tests.
+- [consumer driven contract — 08-testing-and-quality/contract-tests](../08-testing-and-quality/contract-tests/consumer-driven-contract/): Detect a breaking API response change before deployment.
+- [object level authorization — 09-security/authorization-and-tenant-isolation](../09-security/authorization-and-tenant-isolation/object-level-authorization/): Prove one user cannot read or modify another user order by changing its ID.
+- [sql injection — 09-security/injection-xss-and-csrf](../09-security/injection-xss-and-csrf/sql-injection/): Reproduce unsafe querying against synthetic data and replace it with parameterization.
+- [stored xss — 09-security/injection-xss-and-csrf](../09-security/injection-xss-and-csrf/stored-xss/): Use a harmless test payload to verify safe rendering of untrusted comments.
+- [csrf — 09-security/injection-xss-and-csrf](../09-security/injection-xss-and-csrf/csrf/): Demonstrate and prevent an unwanted state-changing request in a local cookie-authenticated app.
+- [clean architecture — 10-architecture-and-system-design/clean-and-hexagonal](../10-architecture-and-system-design/clean-and-hexagonal/clean-architecture/): Separate an order use case from HTTP and persistence and test dependency direction.
+- [ports and adapters — 10-architecture-and-system-design/clean-and-hexagonal](../10-architecture-and-system-design/clean-and-hexagonal/ports-and-adapters/): Swap an in-memory inventory adapter for persistence without changing the use case.
+- [entity — 10-architecture-and-system-design/domain-driven-design/03-entities-value-objects-and-aggregates](../10-architecture-and-system-design/domain-driven-design/03-entities-value-objects-and-aggregates/entity/): Model order identity independently of changing attributes.
+- [value object — 10-architecture-and-system-design/domain-driven-design/03-entities-value-objects-and-aggregates](../10-architecture-and-system-design/domain-driven-design/03-entities-value-objects-and-aggregates/value-object/): Implement immutable Money with equality and currency rules.
+- [aggregate — 10-architecture-and-system-design/domain-driven-design/03-entities-value-objects-and-aggregates](../10-architecture-and-system-design/domain-driven-design/03-entities-value-objects-and-aggregates/aggregate/): Enforce order state and line-item invariants through one consistency boundary.
+- [domain service — 10-architecture-and-system-design/domain-driven-design/04-services-factories-and-repositories](../10-architecture-and-system-design/domain-driven-design/04-services-factories-and-repositories/domain-service/): Place a cross-entity pricing policy outside entities when it has no natural owner.
+- [repository — 10-architecture-and-system-design/domain-driven-design/04-services-factories-and-repositories](../10-architecture-and-system-design/domain-driven-design/04-services-factories-and-repositories/repository/): Provide an aggregate collection boundary and compare direct persistence access.
+- [anti corruption layer — 10-architecture-and-system-design/domain-driven-design/05-context-integration-and-anti-corruption](../10-architecture-and-system-design/domain-driven-design/05-context-integration-and-anti-corruption/anti-corruption-layer/): Translate an external shipping model without leaking it into the order domain.
+- [retry with jitter — 10-architecture-and-system-design/retry-timeout-and-circuit-breaker](../10-architecture-and-system-design/retry-timeout-and-circuit-breaker/retry-with-jitter/): Retry transient failures within a fixed deadline and avoid retrying permanent errors.
+- [timeout — 10-architecture-and-system-design/retry-timeout-and-circuit-breaker](../10-architecture-and-system-design/retry-timeout-and-circuit-breaker/timeout/): Apply an end-to-end deadline and cancel downstream operations.
+- [circuit breaker — 10-architecture-and-system-design/retry-timeout-and-circuit-breaker](../10-architecture-and-system-design/retry-timeout-and-circuit-breaker/circuit-breaker/): Stop repeated calls to a failed dependency and verify recovery probes.
+- [bulkhead — 10-architecture-and-system-design/retry-timeout-and-circuit-breaker](../10-architecture-and-system-design/retry-timeout-and-circuit-breaker/bulkhead/): Limit one slow dependency without exhausting capacity for unrelated requests.
+- [transactional outbox — 10-architecture-and-system-design/outbox-inbox-and-idempotency](../10-architecture-and-system-design/outbox-inbox-and-idempotency/transactional-outbox/): Commit an order and outgoing event atomically and recover after worker failure.
+- [inbox deduplication — 10-architecture-and-system-design/outbox-inbox-and-idempotency](../10-architecture-and-system-design/outbox-inbox-and-idempotency/inbox-deduplication/): Process a delivered event twice and prove the business effect happens once.
+- [idempotency key — 10-architecture-and-system-design/outbox-inbox-and-idempotency](../10-architecture-and-system-design/outbox-inbox-and-idempotency/idempotency-key/): Handle repeated order submissions and conflicting reuse of a key.
+- [orchestration — 10-architecture-and-system-design/sagas](../10-architecture-and-system-design/sagas/orchestration/): Coordinate payment and reservation with explicit compensation and persisted state.
+- [choreography — 10-architecture-and-system-design/sagas](../10-architecture-and-system-design/sagas/choreography/): Coordinate the same steps through events and trace failure ownership.
+- [separate read and write models — 10-architecture-and-system-design/cqrs](../10-architecture-and-system-design/cqrs/separate-read-and-write-models/): Project an order summary and expose its consistency delay.
+- [event replay — 10-architecture-and-system-design/event-sourcing](../10-architecture-and-system-design/event-sourcing/event-replay/): Reconstruct an order from versioned events and verify deterministic replay.
+- [backend for frontend — 10-architecture-and-system-design/api-gateway-and-bff](../10-architecture-and-system-design/api-gateway-and-bff/backend-for-frontend/): Compose a React screen response without embedding domain rules in the gateway.
+- [deterministic workflow — 15-agentic-ai-infrastructure/01-workflows-versus-agents](../15-agentic-ai-infrastructure/01-workflows-versus-agents/deterministic-workflow/): Route known report requests through explicit steps without model planning.
+- [bounded agent loop — 15-agentic-ai-infrastructure/02-agent-runtime-and-state](../15-agentic-ai-infrastructure/02-agent-runtime-and-state/bounded-agent-loop/): Enforce a step limit, deadline and terminal run states using a deterministic model stub.
+- [checkpoint and resume — 15-agentic-ai-infrastructure/03-durable-workflows-and-checkpoints](../15-agentic-ai-infrastructure/03-durable-workflows-and-checkpoints/checkpoint-and-resume/): Resume an interrupted run without repeating a completed external effect.
+- [worker lease and recovery — 15-agentic-ai-infrastructure/04-queues-workers-and-backpressure](../15-agentic-ai-infrastructure/04-queues-workers-and-backpressure/worker-lease-and-recovery/): Recover a job after worker failure and handle duplicate delivery safely.
+- [mcp tool server — 15-agentic-ai-infrastructure/05-tool-gateway-and-mcp](../15-agentic-ai-infrastructure/05-tool-gateway-and-mcp/mcp-tool-server/): Expose a read-only inventory tool with explicit schemas and restricted access.
+- [per tool authorization — 15-agentic-ai-infrastructure/06-identity-permissions-and-tenancy](../15-agentic-ai-infrastructure/06-identity-permissions-and-tenancy/per-tool-authorization/): Authorize each tool call using caller identity and tenant scope.
+- [isolated execution — 15-agentic-ai-infrastructure/07-sandboxing-and-isolated-execution](../15-agentic-ai-infrastructure/07-sandboxing-and-isolated-execution/isolated-execution/): Run a harmless generated task locally with file, network, resource and time limits.
+- [approval state machine — 15-agentic-ai-infrastructure/08-human-approval-and-audit](../15-agentic-ai-infrastructure/08-human-approval-and-audit/approval-state-machine/): Pause a consequential action and bind approval to the exact action and arguments.
+- [memory expiry and deletion — 15-agentic-ai-infrastructure/09-memory-context-and-retention](../15-agentic-ai-infrastructure/09-memory-context-and-retention/memory-expiry-and-deletion/): Store scoped memory with expiration and verify user deletion propagates.
+- [budget aware routing — 15-agentic-ai-infrastructure/10-model-routing-and-gateways](../15-agentic-ai-infrastructure/10-model-routing-and-gateways/budget-aware-routing/): Choose a model against a quality baseline and enforce spend limits.
+- [regression release gate — 15-agentic-ai-infrastructure/11-evaluations-and-release-gates](../15-agentic-ai-infrastructure/11-evaluations-and-release-gates/regression-release-gate/): Block a candidate release when a fixed evaluation set regresses.
+- [run trace and token accounting — 15-agentic-ai-infrastructure/12-tracing-metrics-and-cost](../15-agentic-ai-infrastructure/12-tracing-metrics-and-cost/run-trace-and-token-accounting/): Trace each agent step and reconcile usage without logging sensitive prompts.
+- [prompt injection boundary — 15-agentic-ai-infrastructure/13-security-and-adversarial-testing](../15-agentic-ai-infrastructure/13-security-and-adversarial-testing/prompt-injection-boundary/): Feed malicious document instructions and prove they cannot authorize tool actions.
+- [graceful worker drain — 15-agentic-ai-infrastructure/14-deployment-and-platform-operations](../15-agentic-ai-infrastructure/14-deployment-and-platform-operations/graceful-worker-drain/): Deploy a new worker version without abandoning active runs.
+- [per tenant quotas — 15-agentic-ai-infrastructure/15-budgets-quotas-and-reliability](../15-agentic-ai-infrastructure/15-budgets-quotas-and-reliability/per-tenant-quotas/): Reject excessive runs fairly and prove one tenant cannot exhaust shared capacity.
+- [single agent versus multi agent — 15-agentic-ai-infrastructure/16-orchestration-framework-comparison](../15-agentic-ai-infrastructure/16-orchestration-framework-comparison/single-agent-versus-multi-agent/): Compare a single agent and coordinated agents on the same task with quality, cost and failure evidence.
+- [long method — 17-clean-code-and-craftsmanship/04-refactoring-and-code-smells](../17-clean-code-and-craftsmanship/04-refactoring-and-code-smells/long-method/): Refactor a long checkout function behind characterization tests.
+- [feature envy — 17-clean-code-and-craftsmanship/04-refactoring-and-code-smells](../17-clean-code-and-craftsmanship/04-refactoring-and-code-smells/feature-envy/): Move behavior toward the data it uses and compare coupling.
+- [shotgun surgery — 17-clean-code-and-craftsmanship/04-refactoring-and-code-smells](../17-clean-code-and-craftsmanship/04-refactoring-and-code-smells/shotgun-surgery/): Consolidate a pricing rule whose changes currently touch many files.
+- [decision record — 12-professional-practice/technical-writing](../12-professional-practice/technical-writing/decision-record/): Write a decision comparing two storage choices using explicit constraints and evidence.
+- [review and feedback — 16-senior-lead-engineering/04-mentoring-and-code-review](../16-senior-lead-engineering/04-mentoring-and-code-review/review-and-feedback/): Review a small deliberately flawed change and prioritize behavior, risk and maintainability.
+- [incident simulation — 16-senior-lead-engineering/07-production-ownership-and-incidents](../16-senior-lead-engineering/07-production-ownership-and-incidents/incident-simulation/): Diagnose a synthetic latency incident and produce a timeline and corrective actions.
+
+## Classic .NET design patterns
+
+- [chain-of-responsibility](../02-dotnet-backend/design-patterns/behavioral/chain-of-responsibility/)
+- [command](../02-dotnet-backend/design-patterns/behavioral/command/)
+- [interpreter](../02-dotnet-backend/design-patterns/behavioral/interpreter/)
+- [iterator](../02-dotnet-backend/design-patterns/behavioral/iterator/)
+- [mediator](../02-dotnet-backend/design-patterns/behavioral/mediator/)
+- [memento](../02-dotnet-backend/design-patterns/behavioral/memento/)
+- [observer](../02-dotnet-backend/design-patterns/behavioral/observer/)
+- [state](../02-dotnet-backend/design-patterns/behavioral/state/)
+- [strategy](../02-dotnet-backend/design-patterns/behavioral/strategy/)
+- [template-method](../02-dotnet-backend/design-patterns/behavioral/template-method/)
+- [visitor](../02-dotnet-backend/design-patterns/behavioral/visitor/)
+- [abstract-factory](../02-dotnet-backend/design-patterns/creational/abstract-factory/)
+- [builder](../02-dotnet-backend/design-patterns/creational/builder/)
+- [factory-method](../02-dotnet-backend/design-patterns/creational/factory-method/)
+- [prototype](../02-dotnet-backend/design-patterns/creational/prototype/)
+- [singleton](../02-dotnet-backend/design-patterns/creational/singleton/)
+- [adapter](../02-dotnet-backend/design-patterns/structural/adapter/)
+- [bridge](../02-dotnet-backend/design-patterns/structural/bridge/)
+- [composite](../02-dotnet-backend/design-patterns/structural/composite/)
+- [decorator](../02-dotnet-backend/design-patterns/structural/decorator/)
+- [facade](../02-dotnet-backend/design-patterns/structural/facade/)
+- [flyweight](../02-dotnet-backend/design-patterns/structural/flyweight/)
+- [proxy](../02-dotnet-backend/design-patterns/structural/proxy/)

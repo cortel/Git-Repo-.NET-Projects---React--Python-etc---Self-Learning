@@ -16,3 +16,7 @@ Build a tool gateway and a small MCP integration over synthetic inventory data.
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [mcp tool server](./mcp-tool-server/)

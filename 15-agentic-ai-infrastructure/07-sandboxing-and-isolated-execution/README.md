@@ -16,3 +16,7 @@ Run potentially untrusted generated code or commands in a disposable environment
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [isolated execution](./isolated-execution/)

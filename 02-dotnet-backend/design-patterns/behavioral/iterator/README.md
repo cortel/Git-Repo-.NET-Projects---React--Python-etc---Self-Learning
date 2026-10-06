@@ -12,3 +12,7 @@ Implement a small backend example demonstrating iterator. Compare it with a simp
 - [ ] Identify a realistic backend use case.
 
 A console application is sufficient unless HTTP or persistence is needed.
+
+## Concrete mini-project
+
+Traverse a custom paged catalog without exposing its internal storage representation.

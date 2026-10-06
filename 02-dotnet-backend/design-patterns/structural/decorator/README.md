@@ -12,3 +12,7 @@ Implement a small backend example demonstrating decorator. Compare it with a sim
 - [ ] Identify a realistic backend use case.
 
 A console application is sufficient unless HTTP or persistence is needed.
+
+## Concrete mini-project
+
+Wrap a product reader with logging and caching while preserving its contract and avoiding circular dependency registration.

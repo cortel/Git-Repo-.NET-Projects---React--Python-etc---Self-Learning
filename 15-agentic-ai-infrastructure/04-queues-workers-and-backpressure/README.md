@@ -16,3 +16,7 @@ Use a queue and isolated workers to handle agent jobs without blocking HTTP requ
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [worker lease and recovery](./worker-lease-and-recovery/)

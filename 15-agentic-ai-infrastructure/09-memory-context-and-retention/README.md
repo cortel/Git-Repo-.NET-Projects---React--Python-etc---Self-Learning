@@ -16,3 +16,7 @@ Separate conversation context, run checkpoints, retrieval data and longer-term m
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [memory expiry and deletion](./memory-expiry-and-deletion/)

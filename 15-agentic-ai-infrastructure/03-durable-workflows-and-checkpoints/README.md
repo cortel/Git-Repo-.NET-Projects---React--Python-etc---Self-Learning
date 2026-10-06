@@ -16,3 +16,7 @@ Persist workflow state so a process restart does not lose a long-running task.
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [checkpoint and resume](./checkpoint-and-resume/)

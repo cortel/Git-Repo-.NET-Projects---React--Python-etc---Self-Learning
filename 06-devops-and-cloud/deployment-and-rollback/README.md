@@ -16,3 +16,7 @@ Build a focused, runnable example of deployment and rollback using a concrete sc
 - [ ] Record lessons and one follow-up improvement.
 
 Keep code, tests, and notes in this folder. Start with the [project brief](../../13-project-templates/project-brief.md).
+
+## Focused mini-projects
+
+- [health check and rollback](./health-check-and-rollback/)

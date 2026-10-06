@@ -12,3 +12,7 @@ Implement a small backend example demonstrating observer. Compare it with a simp
 - [ ] Identify a realistic backend use case.
 
 A console application is sufficient unless HTTP or persistence is needed.
+
+## Concrete mini-project
+
+Notify independent subscribers about order changes and verify unsubscribe behavior and subscriber failure handling.

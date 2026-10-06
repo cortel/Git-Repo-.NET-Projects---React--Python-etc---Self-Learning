@@ -16,3 +16,8 @@ Build a focused, runnable example of ef core using a concrete scenario. Demonstr
 - [ ] Record lessons and one follow-up improvement.
 
 Keep code, tests, and notes in this folder. Start with the [project brief](../../13-project-templates/project-brief.md).
+
+## Focused mini-projects
+
+- [optimistic concurrency](./optimistic-concurrency/)
+- [query projection and tracking](./query-projection-and-tracking/)

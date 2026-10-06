@@ -12,3 +12,7 @@ Implement a small backend example demonstrating visitor. Compare it with a simpl
 - [ ] Identify a realistic backend use case.
 
 A console application is sufficient unless HTTP or persistence is needed.
+
+## Concrete mini-project
+
+Calculate price and export product elements using separate visitors; measure the impact of adding an element type.

@@ -12,3 +12,7 @@ Implement a small backend example demonstrating proxy. Compare it with a simple 
 - [ ] Identify a realistic backend use case.
 
 A console application is sufficient unless HTTP or persistence is needed.
+
+## Concrete mini-project
+
+Protect access to an expensive document renderer using lazy creation or authorization.

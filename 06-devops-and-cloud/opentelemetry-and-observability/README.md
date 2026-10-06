@@ -16,3 +16,7 @@ Build a focused, runnable example of opentelemetry and observability using a con
 - [ ] Record lessons and one follow-up improvement.
 
 Keep code, tests, and notes in this folder. Start with the [project brief](../../13-project-templates/project-brief.md).
+
+## Focused mini-projects
+
+- [distributed trace](./distributed-trace/)

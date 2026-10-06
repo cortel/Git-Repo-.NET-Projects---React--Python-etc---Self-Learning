@@ -12,3 +12,7 @@ Implement a small backend example demonstrating bridge. Compare it with a simple
 - [ ] Identify a realistic backend use case.
 
 A console application is sufficient unless HTTP or persistence is needed.
+
+## Concrete mini-project
+
+Vary notification urgency independently of email and SMS delivery implementations.

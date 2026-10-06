@@ -16,3 +16,9 @@ Remove duplication and coupling from a small legacy feature.
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [long method](./long-method/)
+- [feature envy](./feature-envy/)
+- [shotgun surgery](./shotgun-surgery/)

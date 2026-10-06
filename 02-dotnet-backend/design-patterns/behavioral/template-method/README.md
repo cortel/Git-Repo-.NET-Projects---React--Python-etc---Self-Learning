@@ -12,3 +12,7 @@ Implement a small backend example demonstrating template method. Compare it with
 - [ ] Identify a realistic backend use case.
 
 A console application is sufficient unless HTTP or persistence is needed.
+
+## Concrete mini-project
+
+Share an import algorithm skeleton while varying parsing and validation; compare with composition.

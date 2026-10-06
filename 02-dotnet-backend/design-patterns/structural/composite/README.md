@@ -12,3 +12,7 @@ Implement a small backend example demonstrating composite. Compare it with a sim
 - [ ] Identify a realistic backend use case.
 
 A console application is sufficient unless HTTP or persistence is needed.
+
+## Concrete mini-project
+
+Calculate totals for individual products and nested product bundles through one contract.

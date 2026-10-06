@@ -16,3 +16,7 @@ Improve another developer's ability to reason about and maintain a system.
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [review and feedback](./review-and-feedback/)

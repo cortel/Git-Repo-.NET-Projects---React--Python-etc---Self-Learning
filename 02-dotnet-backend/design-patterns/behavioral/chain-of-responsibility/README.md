@@ -12,3 +12,7 @@ Implement a small backend example demonstrating chain of responsibility. Compare
 - [ ] Identify a realistic backend use case.
 
 A console application is sufficient unless HTTP or persistence is needed.
+
+## Concrete mini-project
+
+Pass an order through independently composed validation handlers and identify where processing stops.

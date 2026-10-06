@@ -16,3 +16,10 @@ Compare comparison-based sorting with a bounded-integer counting sort.
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [insertion sort](./insertion-sort/)
+- [merge sort](./merge-sort/)
+- [quick sort](./quick-sort/)
+- [heap sort](./heap-sort/)

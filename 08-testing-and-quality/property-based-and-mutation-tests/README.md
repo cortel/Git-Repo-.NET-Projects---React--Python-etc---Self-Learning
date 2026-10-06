@@ -16,3 +16,8 @@ Build a focused, runnable example of property based and mutation tests using a c
 - [ ] Record lessons and one follow-up improvement.
 
 Keep code, tests, and notes in this folder. Start with the [project brief](../../13-project-templates/project-brief.md).
+
+## Focused mini-projects
+
+- [property based testing](./property-based-testing/)
+- [mutation testing](./mutation-testing/)

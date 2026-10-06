@@ -16,3 +16,8 @@ Build a focused, runnable example of accessibility and internationalization usin
 - [ ] Record lessons and one follow-up improvement.
 
 Keep code, tests, and notes in this folder. Start with the [project brief](../../13-project-templates/project-brief.md).
+
+## Focused mini-projects
+
+- [keyboard and focus](./keyboard-and-focus/)
+- [locale and formatting](./locale-and-formatting/)

@@ -16,3 +16,7 @@ Threat-model malicious user input, retrieved documents and compromised tool resu
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [prompt injection boundary](./prompt-injection-boundary/)

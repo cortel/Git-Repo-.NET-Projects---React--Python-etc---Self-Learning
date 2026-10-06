@@ -16,3 +16,7 @@ Route model requests through a provider abstraction with explicit capability req
 
 
 Keep implementation and evidence in this folder. Create src/, tests/, docs/, or infra/ when needed.
+
+## Focused mini-projects
+
+- [budget aware routing](./budget-aware-routing/)

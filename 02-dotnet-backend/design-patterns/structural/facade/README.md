@@ -12,3 +12,7 @@ Implement a small backend example demonstrating facade. Compare it with a simple
 - [ ] Identify a realistic backend use case.
 
 A console application is sufficient unless HTTP or persistence is needed.
+
+## Concrete mini-project
+
+Expose a simple checkout operation over inventory, pricing and payment collaborators.
