@@ -16,3 +16,11 @@ Build a focused, runnable example of supply chain security using a concrete scen
 - [ ] Record lessons and one follow-up improvement.
 
 Keep code, tests, and notes in this folder. Start with the [project brief](../../13-project-templates/project-brief.md).
+
+- [dependency-and-image-scanning](./dependency-and-image-scanning/)
+
+- [sbom-and-artifact-provenance](./sbom-and-artifact-provenance/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.

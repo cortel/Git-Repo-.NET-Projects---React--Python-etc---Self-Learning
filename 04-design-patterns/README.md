@@ -73,3 +73,7 @@ Status: planned mini-project briefs, not implemented applications.
 - [visitor](../02-dotnet-backend/design-patterns/behavioral/visitor/)
 
 Architecture and distributed patterns have their own exercises in [architecture and system design](../10-architecture-and-system-design/). See the repository-wide [mini-project directory](../00-roadmap/mini-project-directory.md).
+
+## Final combined project
+
+- [extensible-checkout](./99-integration-project/) — Strategy, Adapter, Decorator, Factory Method, State and anti-pattern refactoring

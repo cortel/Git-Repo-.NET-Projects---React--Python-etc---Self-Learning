@@ -12,3 +12,7 @@ Practice independent delivery, sound technical judgment, production ownership an
 - [migration and change management](./08-migration-and-change-management/)
 - [engineering metrics and delivery](./09-engineering-metrics-and-delivery/)
 - [design defense and portfolio](./10-design-defense-and-portfolio/)
+
+## Final combined project
+
+- [architecture-and-delivery-review](./99-integration-project/) — Capacity, RFCs, risk, mentoring, ownership, incident response and delivery metrics

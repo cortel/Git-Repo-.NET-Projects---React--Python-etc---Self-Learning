@@ -22,3 +22,7 @@ Create a small version-controlled synthetic dataset, initially around 20 cases. 
 ## Focused mini-projects
 
 - [retrieval and answer evaluation](./retrieval-and-answer-evaluation/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.

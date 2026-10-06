@@ -20,3 +20,11 @@ Keep code, tests, and notes in this folder. Start with the [project brief](../..
 ## Focused mini-projects
 
 - [pull request validation](./pull-request-validation/)
+
+- [artifact-promotion](./artifact-promotion/)
+
+- [oidc-workload-identity](./oidc-workload-identity/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.

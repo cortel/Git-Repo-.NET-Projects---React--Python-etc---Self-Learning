@@ -20,3 +20,11 @@ Keep code, tests, and notes in this folder. Start with the [project brief](../..
 ## Focused mini-projects
 
 - [plan review and drift](./plan-review-and-drift/)
+
+- [reusable-modules](./reusable-modules/)
+
+- [state-and-locking](./state-and-locking/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.

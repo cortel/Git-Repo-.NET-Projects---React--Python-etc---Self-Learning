@@ -38,3 +38,7 @@ For a .NET framework exercise, use current [Microsoft Agent Framework documentat
 [LangGraph persistence](https://docs.langchain.com/oss/python/langgraph/persistence) and [Temporal execution](https://docs.temporal.io/workflow-execution) remain optional comparison references. Do not add Python or several orchestrators to the core .NET path. Protocol references: [MCP](https://modelcontextprotocol.io/docs/getting-started/intro); telemetry: [OpenTelemetry](https://opentelemetry.io/docs/).
 
 Examples and release status change. Record tested dependency versions when implementing rather than copying old post snippets.
+
+## Final combined project
+
+- [recoverable-approved-operations-agent](./99-integration-project/) — Bounded agent state, typed tools, tenancy, durable jobs, approval, audit, evaluation and quotas

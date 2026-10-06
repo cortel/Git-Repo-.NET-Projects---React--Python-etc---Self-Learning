@@ -13,3 +13,7 @@ Planned learning exercises. Application code will be added as each project is im
 ## Additional practical exercises
 
 - [agentic operations platform](./08-agentic-operations-platform/)
+
+## Final combined project
+
+- [fullstack-order-platform](./99-integration-project/) — .NET, React, DDD, TDD, PostgreSQL, event-driven integration, CI and telemetry

@@ -22,3 +22,7 @@ Use Microsoft.Extensions.AI for the first typed-function exercise. Consider [Mic
 ## Focused mini-projects
 
 - [typed tool calling](./typed-tool-calling/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.

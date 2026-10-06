@@ -24,3 +24,7 @@ Microsoft.Extensions.AI supplies chat/embedding abstractions and middleware, whi
 - [AI-assisted development](./ai-assisted-development/): practice review and verification of generated code.
 
 These are available exercises, not prerequisites for building .NET AI features. Use the [curated references](../14-learning-material/curated-links.md) instead of collecting parallel courses.
+
+## Final combined project
+
+- [evaluated-document-assistant](./99-integration-project/) — Structured output, embeddings, RAG, ACL filtering, citations and evaluations

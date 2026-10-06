@@ -13,3 +13,7 @@ Planned learning exercises. Application code will be added as each project is im
 
 - [sorting and stability lab](./sorting-and-stability-lab/)
 - [searching and graphs lab](./searching-and-graphs-lab/)
+
+## Final combined project
+
+- [dependency-scheduler](./99-integration-project/) — Graphs, priority queues, cancellation, profiling and SOLID

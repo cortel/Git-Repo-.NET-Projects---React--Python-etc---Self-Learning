@@ -11,3 +11,5 @@ Start with [the single focused path](./start-here.md).
 The repository's folders form a reference library. They are not a requirement to finish every topic before delivering useful software.
 
 Browse the [named mini-project directory](./mini-project-directory.md) when you need an isolated exercise for a specific concept.
+
+Use [combined projects](./combined-projects.md) after focused labs to demonstrate interactions and end-to-end behavior.

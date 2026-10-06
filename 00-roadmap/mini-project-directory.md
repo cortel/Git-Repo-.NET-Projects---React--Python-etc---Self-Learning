@@ -153,3 +153,44 @@ Status: project briefs; application code is not implemented. Choose a mini-proje
 - [facade](../02-dotnet-backend/design-patterns/structural/facade/)
 - [flyweight](../02-dotnet-backend/design-patterns/structural/flyweight/)
 - [proxy](../02-dotnet-backend/design-patterns/structural/proxy/)
+
+## Additional infrastructure and architecture exercises
+
+- [compose-network-and-volumes](../06-devops-and-cloud/docker-and-compose/compose-network-and-volumes/): Connect an API, database and worker with persistent data and explicit service networking.
+- [container-health-and-resource-limits](../06-devops-and-cloud/docker-and-compose/container-health-and-resource-limits/): Simulate an unhealthy worker and enforce CPU and memory limits locally.
+- [artifact-promotion](../06-devops-and-cloud/github-actions-ci-cd/artifact-promotion/): Build one versioned artifact and promote that same artifact across simulated environments.
+- [oidc-workload-identity](../06-devops-and-cloud/github-actions-ci-cd/oidc-workload-identity/): Design a deployment identity with short-lived credentials and minimal permissions; verify configuration without provisioning paid resources.
+- [process-and-service-management](../06-devops-and-cloud/linux-operations/process-and-service-management/): Run a local service, inspect failures and perform graceful restart.
+- [network-and-dns-diagnostics](../06-devops-and-cloud/linux-operations/network-and-dns-diagnostics/): Diagnose a simulated DNS or port configuration failure with reproducible commands.
+- [application-hosting](../06-devops-and-cloud/azure/application-hosting/): Compare managed app hosting options for the order API and prepare one deployment configuration without executing it.
+- [managed-identity-and-secret-access](../06-devops-and-cloud/azure/managed-identity-and-secret-access/): Design resource-scoped identity access and demonstrate denial using a local fake credential boundary.
+- [reusable-modules](../06-devops-and-cloud/infrastructure-as-code/reusable-modules/): Define a small reusable environment module with validated inputs and explicit outputs.
+- [state-and-locking](../06-devops-and-cloud/infrastructure-as-code/state-and-locking/): Simulate concurrent infrastructure changes and explain safe state ownership and recovery.
+- [deployment-and-service](../06-devops-and-cloud/kubernetes/deployment-and-service/): Run a local API deployment behind a service and replace a failed pod.
+- [readiness-liveness-and-startup](../06-devops-and-cloud/kubernetes/readiness-liveness-and-startup/): Distinguish startup, readiness and liveness failures without restart loops.
+- [requests-limits-and-autoscaling](../06-devops-and-cloud/kubernetes/requests-limits-and-autoscaling/): Measure a local workload and justify resource requests, limits and scaling signals.
+- [configuration-validation](../06-devops-and-cloud/secrets-and-configuration/configuration-validation/): Reject missing or invalid settings at startup and keep environment-specific values outside code.
+- [secret-rotation](../06-devops-and-cloud/secrets-and-configuration/secret-rotation/): Rotate a synthetic service credential and verify both transition and revocation behavior.
+- [metrics-and-alerts](../06-devops-and-cloud/opentelemetry-and-observability/metrics-and-alerts/): Create latency and error metrics and trigger a meaningful alert using a synthetic fault.
+- [structured-logs-and-redaction](../06-devops-and-cloud/opentelemetry-and-observability/structured-logs-and-redaction/): Correlate structured logs while preventing sensitive field disclosure.
+- [blue-green-deployment](../06-devops-and-cloud/deployment-and-rollback/blue-green-deployment/): Switch local traffic between two versions and demonstrate safe fallback.
+- [canary-release](../06-devops-and-cloud/deployment-and-rollback/canary-release/): Route a small share of synthetic traffic to a candidate and decide rollback from measured errors.
+- [capacity-and-load-model](../06-devops-and-cloud/cost-and-capacity/capacity-and-load-model/): Estimate throughput and saturation, then compare the estimate with a local load experiment.
+- [cost-budget-and-alert](../06-devops-and-cloud/cost-and-capacity/cost-budget-and-alert/): Create a cost model with explicit assumptions and simulate budget threshold alerts.
+- [dependency-and-image-scanning](../06-devops-and-cloud/supply-chain-security/dependency-and-image-scanning/): Detect a known vulnerable fixture and document a concrete remediation decision.
+- [sbom-and-artifact-provenance](../06-devops-and-cloud/supply-chain-security/sbom-and-artifact-provenance/): Produce an artifact inventory and verify which source revision generated an image.
+- [publish-subscribe](../10-architecture-and-system-design/messaging/publish-subscribe/): Deliver an order event to independent consumers and demonstrate subscriber failure isolation.
+- [competing-consumers](../10-architecture-and-system-design/messaging/competing-consumers/): Distribute jobs across workers and handle redelivery without duplicate effects.
+- [dead-letter-and-replay](../10-architecture-and-system-design/messaging/dead-letter-and-replay/): Quarantine a poison message and replay it after correcting the failure.
+- [eventual-consistency](../10-architecture-and-system-design/distributed-consistency/eventual-consistency/): Demonstrate a delayed projection and explain stale reads to a client.
+- [ordering-and-versioning](../10-architecture-and-system-design/distributed-consistency/ordering-and-versioning/): Handle out-of-order and old-schema events using explicit compatibility rules.
+- [service-boundaries-and-data-ownership](../10-architecture-and-system-design/microservices/service-boundaries-and-data-ownership/): Extract one module only after documenting an independent ownership or scaling requirement.
+- [module-boundary-enforcement](../10-architecture-and-system-design/modular-monolith/module-boundary-enforcement/): Keep orders and inventory isolated through public module contracts and boundary checks.
+- [feature-slice](../10-architecture-and-system-design/vertical-slices/feature-slice/): Implement order cancellation as one cohesive feature and compare cross-layer change impact.
+- [full-text-search](../05-databases-and-data/search/full-text-search/): Index synthetic product descriptions and evaluate a fixed set of keyword queries.
+- [distributed-lock-and-lease](../05-databases-and-data/redis/distributed-lock-and-lease/): Simulate lease expiry and demonstrate why a lock alone cannot guarantee a unique business effect.
+- [similarity-and-distance](../07-ai-development/embeddings/similarity-and-distance/): Compare semantic similarity on a fixed synthetic dataset and record retrieval limitations.
+- [untrusted-content-isolation](../07-ai-development/guardrails-and-prompt-injection/untrusted-content-isolation/): Keep document text separate from trusted instructions and demonstrate a rejected malicious request.
+- [trust-boundary-model](../09-security/threat-modeling-and-owasp/trust-boundary-model/): Map order data flows, identify concrete abuse cases and verify one mitigation.
+
+After focused practice, choose a [combined project](./combined-projects.md) to demonstrate interactions.

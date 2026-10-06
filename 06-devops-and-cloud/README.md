@@ -14,3 +14,7 @@ Planned learning exercises. Application code will be added as each project is im
 - [sre and incident response](./sre-and-incident-response/)
 - [cost and capacity](./cost-and-capacity/)
 - [supply chain security](./supply-chain-security/)
+
+## Final combined project
+
+- [operable-order-platform](./99-integration-project/) — Containers, CI artifacts, IaC, identity, deployment, telemetry and rollback

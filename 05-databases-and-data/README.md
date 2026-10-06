@@ -12,3 +12,7 @@ Planned learning exercises. Application code will be added as each project is im
 - [search](./search/)
 - [backup and restore](./backup-and-restore/)
 - [data pipelines](./data-pipelines/)
+
+## Final combined project
+
+- [concurrent-order-store](./99-integration-project/) — Schema design, transactions, indexes, migrations, backup and restore

@@ -16,3 +16,7 @@ Planned learning exercises. Application code will be added as each project is im
 - [tdd red green refactor](./tdd-red-green-refactor/)
 - [bdd and acceptance tests](./bdd-and-acceptance-tests/)
 - [characterization tests and test doubles](./characterization-tests-and-test-doubles/)
+
+## Final combined project
+
+- [order-quality-pipeline](./99-integration-project/) — TDD, unit tests, integration tests, contracts, properties and mutation testing

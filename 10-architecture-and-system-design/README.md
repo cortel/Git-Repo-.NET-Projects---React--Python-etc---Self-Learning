@@ -21,3 +21,7 @@ Planned learning exercises. Application code will be added as each project is im
 
 - [component cohesion and coupling](./component-cohesion-and-coupling/)
 - [architecture fitness functions](./architecture-fitness-functions/)
+
+## Final combined project
+
+- [ddd-event-driven-orders-with-tdd](./99-integration-project/) — DDD aggregates, bounded contexts, TDD, modular monolith, domain events, outbox, inbox and CQRS

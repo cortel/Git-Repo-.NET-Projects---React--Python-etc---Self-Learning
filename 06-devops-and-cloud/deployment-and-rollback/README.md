@@ -20,3 +20,11 @@ Keep code, tests, and notes in this folder. Start with the [project brief](../..
 ## Focused mini-projects
 
 - [health check and rollback](./health-check-and-rollback/)
+
+- [blue-green-deployment](./blue-green-deployment/)
+
+- [canary-release](./canary-release/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.

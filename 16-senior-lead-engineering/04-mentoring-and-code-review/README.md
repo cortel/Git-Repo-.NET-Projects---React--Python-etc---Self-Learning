@@ -20,3 +20,7 @@ Keep implementation and evidence in this folder. Create src/, tests/, docs/, or 
 ## Focused mini-projects
 
 - [review and feedback](./review-and-feedback/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.

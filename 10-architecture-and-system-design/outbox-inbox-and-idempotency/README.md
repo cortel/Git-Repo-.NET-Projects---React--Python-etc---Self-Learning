@@ -22,3 +22,7 @@ Keep code, tests, and notes in this folder. Start with the [project brief](../..
 - [transactional outbox](./transactional-outbox/)
 - [inbox deduplication](./inbox-deduplication/)
 - [idempotency key](./idempotency-key/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.

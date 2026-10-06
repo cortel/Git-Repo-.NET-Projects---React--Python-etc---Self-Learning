@@ -20,3 +20,11 @@ Keep code, tests, and notes in this folder. Start with the [project brief](../..
 ## Focused mini-projects
 
 - [multi stage image](./multi-stage-image/)
+
+- [compose-network-and-volumes](./compose-network-and-volumes/)
+
+- [container-health-and-resource-limits](./container-health-and-resource-limits/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.

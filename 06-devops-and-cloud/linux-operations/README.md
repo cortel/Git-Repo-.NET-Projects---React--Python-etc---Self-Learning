@@ -16,3 +16,11 @@ Build a focused, runnable example of linux operations using a concrete scenario.
 - [ ] Record lessons and one follow-up improvement.
 
 Keep code, tests, and notes in this folder. Start with the [project brief](../../13-project-templates/project-brief.md).
+
+- [process-and-service-management](./process-and-service-management/)
+
+- [network-and-dns-diagnostics](./network-and-dns-diagnostics/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.

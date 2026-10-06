@@ -21,3 +21,7 @@ Keep code, tests, and notes in this folder. Start with the [project brief](../..
 
 - [keyboard and focus](./keyboard-and-focus/)
 - [locale and formatting](./locale-and-formatting/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.

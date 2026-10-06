@@ -1,0 +1,114 @@
+# Combined learning projects
+
+Status: planned project briefs. Topic folders containing individual labs now end with a `99-integration-project` folder. Each practical track also ends with a larger combined project listed below. Roadmap, templates and source-material folders are reference areas, not applications.
+
+Reuse the inventory-and-orders application where appropriate. A capstone can own a brief and evidence while linking to that shared code home; separate deployments and duplicate applications are not required. Optional infrastructure and advanced patterns remain optional until justified.
+
+## Track projects
+
+- [dependency-scheduler](../01-foundations/99-integration-project/): Graphs, priority queues, cancellation, profiling and SOLID
+- [reliable-order-api](../02-dotnet-backend/99-integration-project/): ASP.NET Core, DI lifetimes, EF concurrency, cache-aside, Strategy and TDD
+- [order-management-ui](../03-react-frontend/99-integration-project/): Composition, controlled forms, server-state caching, routing, accessibility and UI tests
+- [extensible-checkout](../04-design-patterns/99-integration-project/): Strategy, Adapter, Decorator, Factory Method, State and anti-pattern refactoring
+- [concurrent-order-store](../05-databases-and-data/99-integration-project/): Schema design, transactions, indexes, migrations, backup and restore
+- [operable-order-platform](../06-devops-and-cloud/99-integration-project/): Containers, CI artifacts, IaC, identity, deployment, telemetry and rollback
+- [evaluated-document-assistant](../07-ai-development/99-integration-project/): Structured output, embeddings, RAG, ACL filtering, citations and evaluations
+- [order-quality-pipeline](../08-testing-and-quality/99-integration-project/): TDD, unit tests, integration tests, contracts, properties and mutation testing
+- [tenant-safe-order-service](../09-security/99-integration-project/): Threat modeling, identity, object authorization, tenant isolation, input handling and audit
+- [ddd-event-driven-orders-with-tdd](../10-architecture-and-system-design/99-integration-project/): DDD aggregates, bounded contexts, TDD, modular monolith, domain events, outbox, inbox and CQRS
+- [fullstack-order-platform](../11-mixed-fullstack-projects/99-integration-project/): .NET, React, DDD, TDD, PostgreSQL, event-driven integration, CI and telemetry
+- [legacy-modernization-delivery](../12-professional-practice/99-integration-project/): Requirements, characterization, estimation, incremental migration, communication and postmortems
+- [recoverable-approved-operations-agent](../15-agentic-ai-infrastructure/99-integration-project/): Bounded agent state, typed tools, tenancy, durable jobs, approval, audit, evaluation and quotas
+- [architecture-and-delivery-review](../16-senior-lead-engineering/99-integration-project/): Capacity, RFCs, risk, mentoring, ownership, incident response and delivery metrics
+- [legacy-checkout-refactoring](../17-clean-code-and-craftsmanship/99-integration-project/): Characterization, TDD, SOLID, value objects, code smells and error contracts
+
+## Topic integration projects
+
+- [01-foundations/algorithms-and-data-structures/99-integration-project](../01-foundations/algorithms-and-data-structures/99-integration-project/)
+- [01-foundations/searching-and-graphs-lab/99-integration-project](../01-foundations/searching-and-graphs-lab/99-integration-project/)
+- [01-foundations/solid-and-refactoring/99-integration-project](../01-foundations/solid-and-refactoring/99-integration-project/)
+- [01-foundations/sorting-and-stability-lab/99-integration-project](../01-foundations/sorting-and-stability-lab/99-integration-project/)
+- [02-dotnet-backend/aspnet-core-web-api/99-integration-project](../02-dotnet-backend/aspnet-core-web-api/99-integration-project/)
+- [02-dotnet-backend/async-concurrency-and-cancellation/99-integration-project](../02-dotnet-backend/async-concurrency-and-cancellation/99-integration-project/)
+- [02-dotnet-backend/caching-and-performance/99-integration-project](../02-dotnet-backend/caching-and-performance/99-integration-project/)
+- [02-dotnet-backend/dependency-injection/99-integration-project](../02-dotnet-backend/dependency-injection/99-integration-project/)
+- [02-dotnet-backend/design-patterns/behavioral/99-integration-project](../02-dotnet-backend/design-patterns/behavioral/99-integration-project/)
+- [02-dotnet-backend/design-patterns/creational/99-integration-project](../02-dotnet-backend/design-patterns/creational/99-integration-project/)
+- [02-dotnet-backend/design-patterns/structural/99-integration-project](../02-dotnet-backend/design-patterns/structural/99-integration-project/)
+- [02-dotnet-backend/ef-core/99-integration-project](../02-dotnet-backend/ef-core/99-integration-project/)
+- [02-dotnet-backend/validation-and-api-contracts/99-integration-project](../02-dotnet-backend/validation-and-api-contracts/99-integration-project/)
+- [03-react-frontend/accessibility-and-internationalization/99-integration-project](../03-react-frontend/accessibility-and-internationalization/99-integration-project/)
+- [03-react-frontend/api-and-server-state/99-integration-project](../03-react-frontend/api-and-server-state/99-integration-project/)
+- [03-react-frontend/forms-and-validation/99-integration-project](../03-react-frontend/forms-and-validation/99-integration-project/)
+- [03-react-frontend/hooks-state-and-effects/99-integration-project](../03-react-frontend/hooks-state-and-effects/99-integration-project/)
+- [03-react-frontend/performance/99-integration-project](../03-react-frontend/performance/99-integration-project/)
+- [04-design-patterns/anti-patterns/99-integration-project](../04-design-patterns/anti-patterns/99-integration-project/)
+- [04-design-patterns/comparison-exercises/99-integration-project](../04-design-patterns/comparison-exercises/99-integration-project/)
+- [04-design-patterns/frontend-patterns/99-integration-project](../04-design-patterns/frontend-patterns/99-integration-project/)
+- [05-databases-and-data/backup-and-restore/99-integration-project](../05-databases-and-data/backup-and-restore/99-integration-project/)
+- [05-databases-and-data/indexes-and-query-plans/99-integration-project](../05-databases-and-data/indexes-and-query-plans/99-integration-project/)
+- [05-databases-and-data/migrations/99-integration-project](../05-databases-and-data/migrations/99-integration-project/)
+- [05-databases-and-data/redis/99-integration-project](../05-databases-and-data/redis/99-integration-project/)
+- [05-databases-and-data/search/99-integration-project](../05-databases-and-data/search/99-integration-project/)
+- [05-databases-and-data/transactions-and-isolation/99-integration-project](../05-databases-and-data/transactions-and-isolation/99-integration-project/)
+- [06-devops-and-cloud/azure/99-integration-project](../06-devops-and-cloud/azure/99-integration-project/)
+- [06-devops-and-cloud/cost-and-capacity/99-integration-project](../06-devops-and-cloud/cost-and-capacity/99-integration-project/)
+- [06-devops-and-cloud/deployment-and-rollback/99-integration-project](../06-devops-and-cloud/deployment-and-rollback/99-integration-project/)
+- [06-devops-and-cloud/docker-and-compose/99-integration-project](../06-devops-and-cloud/docker-and-compose/99-integration-project/)
+- [06-devops-and-cloud/github-actions-ci-cd/99-integration-project](../06-devops-and-cloud/github-actions-ci-cd/99-integration-project/)
+- [06-devops-and-cloud/infrastructure-as-code/99-integration-project](../06-devops-and-cloud/infrastructure-as-code/99-integration-project/)
+- [06-devops-and-cloud/kubernetes/99-integration-project](../06-devops-and-cloud/kubernetes/99-integration-project/)
+- [06-devops-and-cloud/linux-operations/99-integration-project](../06-devops-and-cloud/linux-operations/99-integration-project/)
+- [06-devops-and-cloud/opentelemetry-and-observability/99-integration-project](../06-devops-and-cloud/opentelemetry-and-observability/99-integration-project/)
+- [06-devops-and-cloud/secrets-and-configuration/99-integration-project](../06-devops-and-cloud/secrets-and-configuration/99-integration-project/)
+- [06-devops-and-cloud/sre-and-incident-response/99-integration-project](../06-devops-and-cloud/sre-and-incident-response/99-integration-project/)
+- [06-devops-and-cloud/supply-chain-security/99-integration-project](../06-devops-and-cloud/supply-chain-security/99-integration-project/)
+- [07-ai-development/embeddings/99-integration-project](../07-ai-development/embeddings/99-integration-project/)
+- [07-ai-development/evaluation-datasets/99-integration-project](../07-ai-development/evaluation-datasets/99-integration-project/)
+- [07-ai-development/guardrails-and-prompt-injection/99-integration-project](../07-ai-development/guardrails-and-prompt-injection/99-integration-project/)
+- [07-ai-development/prompts-and-structured-output/99-integration-project](../07-ai-development/prompts-and-structured-output/99-integration-project/)
+- [07-ai-development/rag/99-integration-project](../07-ai-development/rag/99-integration-project/)
+- [07-ai-development/tool-calling-and-agents/99-integration-project](../07-ai-development/tool-calling-and-agents/99-integration-project/)
+- [08-testing-and-quality/characterization-tests-and-test-doubles/99-integration-project](../08-testing-and-quality/characterization-tests-and-test-doubles/99-integration-project/)
+- [08-testing-and-quality/contract-tests/99-integration-project](../08-testing-and-quality/contract-tests/99-integration-project/)
+- [08-testing-and-quality/property-based-and-mutation-tests/99-integration-project](../08-testing-and-quality/property-based-and-mutation-tests/99-integration-project/)
+- [08-testing-and-quality/tdd-red-green-refactor/99-integration-project](../08-testing-and-quality/tdd-red-green-refactor/99-integration-project/)
+- [09-security/authorization-and-tenant-isolation/99-integration-project](../09-security/authorization-and-tenant-isolation/99-integration-project/)
+- [09-security/injection-xss-and-csrf/99-integration-project](../09-security/injection-xss-and-csrf/99-integration-project/)
+- [09-security/threat-modeling-and-owasp/99-integration-project](../09-security/threat-modeling-and-owasp/99-integration-project/)
+- [10-architecture-and-system-design/api-gateway-and-bff/99-integration-project](../10-architecture-and-system-design/api-gateway-and-bff/99-integration-project/)
+- [10-architecture-and-system-design/clean-and-hexagonal/99-integration-project](../10-architecture-and-system-design/clean-and-hexagonal/99-integration-project/)
+- [10-architecture-and-system-design/cqrs/99-integration-project](../10-architecture-and-system-design/cqrs/99-integration-project/)
+- [10-architecture-and-system-design/distributed-consistency/99-integration-project](../10-architecture-and-system-design/distributed-consistency/99-integration-project/)
+- [10-architecture-and-system-design/domain-driven-design/03-entities-value-objects-and-aggregates/99-integration-project](../10-architecture-and-system-design/domain-driven-design/03-entities-value-objects-and-aggregates/99-integration-project/)
+- [10-architecture-and-system-design/domain-driven-design/04-services-factories-and-repositories/99-integration-project](../10-architecture-and-system-design/domain-driven-design/04-services-factories-and-repositories/99-integration-project/)
+- [10-architecture-and-system-design/domain-driven-design/05-context-integration-and-anti-corruption/99-integration-project](../10-architecture-and-system-design/domain-driven-design/05-context-integration-and-anti-corruption/99-integration-project/)
+- [10-architecture-and-system-design/domain-driven-design/99-integration-project](../10-architecture-and-system-design/domain-driven-design/99-integration-project/)
+- [10-architecture-and-system-design/event-sourcing/99-integration-project](../10-architecture-and-system-design/event-sourcing/99-integration-project/)
+- [10-architecture-and-system-design/messaging/99-integration-project](../10-architecture-and-system-design/messaging/99-integration-project/)
+- [10-architecture-and-system-design/microservices/99-integration-project](../10-architecture-and-system-design/microservices/99-integration-project/)
+- [10-architecture-and-system-design/modular-monolith/99-integration-project](../10-architecture-and-system-design/modular-monolith/99-integration-project/)
+- [10-architecture-and-system-design/outbox-inbox-and-idempotency/99-integration-project](../10-architecture-and-system-design/outbox-inbox-and-idempotency/99-integration-project/)
+- [10-architecture-and-system-design/retry-timeout-and-circuit-breaker/99-integration-project](../10-architecture-and-system-design/retry-timeout-and-circuit-breaker/99-integration-project/)
+- [10-architecture-and-system-design/sagas/99-integration-project](../10-architecture-and-system-design/sagas/99-integration-project/)
+- [10-architecture-and-system-design/vertical-slices/99-integration-project](../10-architecture-and-system-design/vertical-slices/99-integration-project/)
+- [12-professional-practice/technical-writing/99-integration-project](../12-professional-practice/technical-writing/99-integration-project/)
+- [15-agentic-ai-infrastructure/01-workflows-versus-agents/99-integration-project](../15-agentic-ai-infrastructure/01-workflows-versus-agents/99-integration-project/)
+- [15-agentic-ai-infrastructure/02-agent-runtime-and-state/99-integration-project](../15-agentic-ai-infrastructure/02-agent-runtime-and-state/99-integration-project/)
+- [15-agentic-ai-infrastructure/03-durable-workflows-and-checkpoints/99-integration-project](../15-agentic-ai-infrastructure/03-durable-workflows-and-checkpoints/99-integration-project/)
+- [15-agentic-ai-infrastructure/04-queues-workers-and-backpressure/99-integration-project](../15-agentic-ai-infrastructure/04-queues-workers-and-backpressure/99-integration-project/)
+- [15-agentic-ai-infrastructure/05-tool-gateway-and-mcp/99-integration-project](../15-agentic-ai-infrastructure/05-tool-gateway-and-mcp/99-integration-project/)
+- [15-agentic-ai-infrastructure/06-identity-permissions-and-tenancy/99-integration-project](../15-agentic-ai-infrastructure/06-identity-permissions-and-tenancy/99-integration-project/)
+- [15-agentic-ai-infrastructure/07-sandboxing-and-isolated-execution/99-integration-project](../15-agentic-ai-infrastructure/07-sandboxing-and-isolated-execution/99-integration-project/)
+- [15-agentic-ai-infrastructure/08-human-approval-and-audit/99-integration-project](../15-agentic-ai-infrastructure/08-human-approval-and-audit/99-integration-project/)
+- [15-agentic-ai-infrastructure/09-memory-context-and-retention/99-integration-project](../15-agentic-ai-infrastructure/09-memory-context-and-retention/99-integration-project/)
+- [15-agentic-ai-infrastructure/10-model-routing-and-gateways/99-integration-project](../15-agentic-ai-infrastructure/10-model-routing-and-gateways/99-integration-project/)
+- [15-agentic-ai-infrastructure/11-evaluations-and-release-gates/99-integration-project](../15-agentic-ai-infrastructure/11-evaluations-and-release-gates/99-integration-project/)
+- [15-agentic-ai-infrastructure/12-tracing-metrics-and-cost/99-integration-project](../15-agentic-ai-infrastructure/12-tracing-metrics-and-cost/99-integration-project/)
+- [15-agentic-ai-infrastructure/13-security-and-adversarial-testing/99-integration-project](../15-agentic-ai-infrastructure/13-security-and-adversarial-testing/99-integration-project/)
+- [15-agentic-ai-infrastructure/14-deployment-and-platform-operations/99-integration-project](../15-agentic-ai-infrastructure/14-deployment-and-platform-operations/99-integration-project/)
+- [15-agentic-ai-infrastructure/15-budgets-quotas-and-reliability/99-integration-project](../15-agentic-ai-infrastructure/15-budgets-quotas-and-reliability/99-integration-project/)
+- [15-agentic-ai-infrastructure/16-orchestration-framework-comparison/99-integration-project](../15-agentic-ai-infrastructure/16-orchestration-framework-comparison/99-integration-project/)
+- [16-senior-lead-engineering/04-mentoring-and-code-review/99-integration-project](../16-senior-lead-engineering/04-mentoring-and-code-review/99-integration-project/)
+- [16-senior-lead-engineering/07-production-ownership-and-incidents/99-integration-project](../16-senior-lead-engineering/07-production-ownership-and-incidents/99-integration-project/)
+- [17-clean-code-and-craftsmanship/04-refactoring-and-code-smells/99-integration-project](../17-clean-code-and-craftsmanship/04-refactoring-and-code-smells/99-integration-project/)

@@ -36,3 +36,5 @@ Each implemented project owns its setup, tests and dependencies. Add src/, tests
 AI contributors follow the root [agent working rules](./AGENTS.md), including validation and committing/pushing completed work for traceability.
 
 Browse the [mini-project directory](./00-roadmap/mini-project-directory.md) for named exercises, including individual anti-patterns, SOLID principles, resilience patterns and agent infrastructure.
+
+Each practical track ends with a [combined project](./00-roadmap/combined-projects.md); topic groups with individual labs also include a final `99-integration-project`. Reuse one application where possible.

@@ -25,3 +25,7 @@ Keep code, tests, and notes in this folder. Start with the [project brief](../..
 - [services factories and repositories](./04-services-factories-and-repositories/)
 - [context integration and anti corruption](./05-context-integration-and-anti-corruption/)
 - [deeper models and distillation](./06-deeper-models-and-distillation/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.

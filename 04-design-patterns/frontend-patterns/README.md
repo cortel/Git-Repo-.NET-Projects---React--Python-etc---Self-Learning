@@ -23,3 +23,7 @@ Keep code, tests, and notes in this folder. Start with the [project brief](../..
 - [custom hooks](./custom-hooks/)
 - [controlled components](./controlled-components/)
 - [reducer state machine](./reducer-state-machine/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.

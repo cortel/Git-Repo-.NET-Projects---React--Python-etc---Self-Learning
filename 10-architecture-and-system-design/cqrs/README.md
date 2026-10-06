@@ -20,3 +20,7 @@ Keep code, tests, and notes in this folder. Start with the [project brief](../..
 ## Focused mini-projects
 
 - [separate read and write models](./separate-read-and-write-models/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.

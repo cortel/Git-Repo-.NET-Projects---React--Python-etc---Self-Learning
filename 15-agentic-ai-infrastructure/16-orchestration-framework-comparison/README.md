@@ -15,3 +15,7 @@ Do not rebuild the project in Semantic Kernel, AutoGen, LangGraph and Temporal t
 ## Focused mini-projects
 
 - [single agent versus multi agent](./single-agent-versus-multi-agent/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.

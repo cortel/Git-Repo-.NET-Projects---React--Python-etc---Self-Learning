@@ -23,3 +23,7 @@ Keep implementation and evidence in this folder. Create src/, tests/, docs/, or 
 - [merge sort](./merge-sort/)
 - [quick sort](./quick-sort/)
 - [heap sort](./heap-sort/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.

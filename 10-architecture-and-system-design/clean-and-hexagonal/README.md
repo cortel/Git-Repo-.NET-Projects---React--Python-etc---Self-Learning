@@ -31,3 +31,7 @@ Continue with [component cohesion/coupling](../component-cohesion-and-coupling/)
 
 - [clean architecture](./clean-architecture/)
 - [ports and adapters](./ports-and-adapters/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.

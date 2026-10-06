@@ -35,3 +35,7 @@ Keep code, tests, and notes in this folder. Start with the [project brief](../..
 - [distributed monolith](./distributed-monolith/)
 - [chatty io and n plus one](./chatty-io-and-n-plus-one/)
 - [unbounded retries](./unbounded-retries/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.

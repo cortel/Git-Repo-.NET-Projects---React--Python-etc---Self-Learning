@@ -16,3 +16,9 @@ Build a focused, runnable example of embeddings using a concrete scenario. Demon
 - [ ] Record lessons and one follow-up improvement.
 
 Keep code, tests, and notes in this folder. Start with the [project brief](../../13-project-templates/project-brief.md).
+
+- [similarity-and-distance](./similarity-and-distance/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.

@@ -12,3 +12,7 @@ Planned learning exercises. Application code will be added as each project is im
 ## Senior and Lead practice
 
 Use [Senior/Lead engineering](../16-senior-lead-engineering/) for mentoring, RFCs, technical strategy, team ownership, delivery metrics and production leadership. [Professional craftsmanship](../17-clean-code-and-craftsmanship/07-professionalism-and-sustainable-practice/) covers commitments and sustainable practice.
+
+## Final combined project
+
+- [legacy-modernization-delivery](./99-integration-project/) — Requirements, characterization, estimation, incremental migration, communication and postmortems

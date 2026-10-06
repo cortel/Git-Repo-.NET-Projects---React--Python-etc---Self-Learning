@@ -15,3 +15,7 @@ Planned learning exercises. Application code will be added as each project is im
 - [performance](./performance/)
 - [design systems](./design-systems/)
 - [server side rendering](./server-side-rendering/)
+
+## Final combined project
+
+- [order-management-ui](./99-integration-project/) — Composition, controlled forms, server-state caching, routing, accessibility and UI tests

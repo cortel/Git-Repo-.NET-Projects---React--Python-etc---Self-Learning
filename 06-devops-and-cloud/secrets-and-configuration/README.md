@@ -16,3 +16,11 @@ Build a focused, runnable example of secrets and configuration using a concrete 
 - [ ] Record lessons and one follow-up improvement.
 
 Keep code, tests, and notes in this folder. Start with the [project brief](../../13-project-templates/project-brief.md).
+
+- [configuration-validation](./configuration-validation/)
+
+- [secret-rotation](./secret-rotation/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.

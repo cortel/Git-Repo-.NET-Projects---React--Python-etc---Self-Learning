@@ -25,3 +25,7 @@ Planned learning exercises. Application code will be added as each project is im
 - [legacy mvc and react migration](./legacy-mvc-and-react-migration/)
 
 For the retained reference notes, start with [Learning Material](../14-learning-material/) and its corrections guide.
+
+## Final combined project
+
+- [reliable-order-api](./99-integration-project/) — ASP.NET Core, DI lifetimes, EF concurrency, cache-aside, Strategy and TDD

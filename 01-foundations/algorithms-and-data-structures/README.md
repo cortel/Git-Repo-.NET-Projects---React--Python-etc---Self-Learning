@@ -23,3 +23,7 @@ Keep code, tests, and notes in this folder. Start with the [project brief](../..
 - [hash table](./hash-table/)
 - [stack and queue](./stack-and-queue/)
 - [heap and priority queue](./heap-and-priority-queue/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.

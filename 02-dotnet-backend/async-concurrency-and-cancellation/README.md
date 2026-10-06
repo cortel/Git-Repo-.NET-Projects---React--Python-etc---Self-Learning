@@ -19,3 +19,7 @@ Use official [async guidance](https://learn.microsoft.com/en-us/dotnet/csharp/as
 - [cancellation token](./cancellation-token/)
 - [bounded channels](./bounded-channels/)
 - [race condition and locking](./race-condition-and-locking/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.

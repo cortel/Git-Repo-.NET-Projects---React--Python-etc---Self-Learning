@@ -31,3 +31,7 @@ References: [.NET RAG concepts](https://learn.microsoft.com/en-us/dotnet/ai/conc
 - [hybrid retrieval](./hybrid-retrieval/)
 - [citation and abstention](./citation-and-abstention/)
 - [document update and deletion](./document-update-and-deletion/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.

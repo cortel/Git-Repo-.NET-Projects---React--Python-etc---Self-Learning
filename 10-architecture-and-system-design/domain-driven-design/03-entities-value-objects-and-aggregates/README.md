@@ -22,3 +22,7 @@ Keep implementation and evidence in this folder. Create src/, tests/, docs/, or 
 - [entity](./entity/)
 - [value object](./value-object/)
 - [aggregate](./aggregate/)
+
+## Combined project
+
+Finish with the [topic integration project](./99-integration-project/) to practice the concepts together.
