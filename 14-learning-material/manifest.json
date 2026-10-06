@@ -1,0 +1,37 @@
+[
+  {
+    "file": "supplied-documents/Sorting Algorithms complexity comparision.docx",
+    "bytes": 20504,
+    "sha256": "2b0e553ba64ff76082685f5c6882ee2a99856dbb821f51d29f3e0e61e2b6fe0d",
+    "imported_on": "2026-10-06",
+    "provenance": "User-supplied learning material; original bytes preserved"
+  },
+  {
+    "file": "supplied-documents/C# Lead Developer System Design & Architecture .pdf",
+    "bytes": 373332,
+    "sha256": "a6270e0ae7f417d46621e65e13a2d0e5a31a3e311475f5b090c7610cd8fb7c90",
+    "imported_on": "2026-10-06",
+    "provenance": "User-supplied learning material; original bytes preserved"
+  },
+  {
+    "file": "supplied-documents/Clean + DDD.docx",
+    "bytes": 11504,
+    "sha256": "a8b0b885b4a42c3c561340e9da0973f89765e50f50a829e75dd14d05de29ad82",
+    "imported_on": "2026-10-06",
+    "provenance": "User-supplied learning material; original bytes preserved"
+  },
+  {
+    "file": "supplied-documents/NET Collections Cheat Sheet.docx",
+    "bytes": 19571,
+    "sha256": "57e8e9c0f64a9c3d95be2a893d522bdad5c1edda0c9b595b81b0110242c37b76",
+    "imported_on": "2026-10-06",
+    "provenance": "User-supplied learning material; original bytes preserved"
+  },
+  {
+    "file": "supplied-documents/Notes Overall NET Core.docx",
+    "bytes": 215451,
+    "sha256": "63da0250f277f425bd39c6a2dcc0a3feeded7357023d389e1ca152da8530da80",
+    "imported_on": "2026-10-06",
+    "provenance": "User-supplied learning material; original bytes preserved"
+  }
+]
