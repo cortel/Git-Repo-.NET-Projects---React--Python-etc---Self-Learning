@@ -32,3 +32,5 @@ The folders below are a library. Study the topic needed by the current stage; op
 Use [curated resources](./14-learning-material/curated-links.md) for verified primary references and optional interview practice. Supplied files are preserved with a [coverage review](./14-learning-material/coverage-review.md) and [corrections guide](./14-learning-material/technical-corrections.md).
 
 Each implemented project owns its setup, tests and dependencies. Add src/, tests/, docs/ and infra/ when needed. Book, marketing and publishing work are outside this learning scaffold.
+
+AI contributors follow the root [agent working rules](./AGENTS.md), including validation and committing/pushing completed work for traceability.
